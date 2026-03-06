@@ -1,0 +1,5 @@
+{
+  "name": "Skay Pilot",
+  "description": "A retro 6-bit top-down airplane dodging game where speed increases over time.",
+  "requestFramePermissions": []
+}
